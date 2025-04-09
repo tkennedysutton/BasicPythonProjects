@@ -1,0 +1,56 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+env/
+venv/
+ENV/
+
+# VSCode settings
+.vscode/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# PyTorch model files / checkpoints
+*.pt
+*.pth
+
+# Logs and temporary files
+*.log
+*.tmp
+*.DS_Store
+
+# Environment settings
+.env
+*.env
+
+# Dependency files you might regenerate
+pip-log.txt
+poetry.lock
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+
+# PyInstaller
+*.spec
+
+# Coverage / test files
+htmlcov/
+.tox/
+.nox/
+coverage.xml
+*.cover
+*.py,cover
+.cache
+
+# Requirements lock (optional)
+requirements.txt
+
+# Notebook output
+*.nbconvert.ipynb
